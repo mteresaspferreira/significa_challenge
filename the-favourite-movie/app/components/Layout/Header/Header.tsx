@@ -1,6 +1,6 @@
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-import maxLogo from "~/assets/max-Logo.svg";
+import maxLogo from "~/assets/max-logo.svg";
 import { useState } from "react";
 
 
